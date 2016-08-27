@@ -1,5 +1,5 @@
-## The below functions ake advantage of the scoping rules of R. 
-## They can cache the inverse of a matrix and retrieve the 
+## The below functions take advantage of the scoping rules of R. 
+## They cache the inverse of a matrix and retrieve the 
 ## cached value instead of recomputing when needed.
 
 
